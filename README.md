@@ -1,4 +1,4 @@
-##Sistema de Academia
+# Sistema de Academia
  
  O presente trabalho tem como finalidade desenvolver um sistema de gerenciamento
  para uma academia, explorando o uso de técnicas de Programação Orientada a Objetos (POO).
