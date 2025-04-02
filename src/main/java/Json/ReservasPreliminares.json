@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "aula": {
+      "tipoAula": "Sala de Musculação",
+      "vagasDisponiveis": 10,
+      "alunosRegistrados": [],
+      "precoDiaria": 0.0,
+      "precoMensalidade": 0.0
+    },
+    "data": "1024-11-11",
+    "horario": "12:00",
+    "aluno": {
+      "ID": 2,
+      "nome": "Iasmin",
+      "cpf": "CPF Exemplo",
+      "telefone": "Telefone",
+      "email": "Email",
+      "endereco": "Endereço"
+    },
+    "status": "Preliminar",
+    "tipoAssinatura": ""
+  }
+]

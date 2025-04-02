@@ -1,0 +1,6 @@
+{
+  "Produto {ID: 1, Nome: \u0027Barra de Proteína\u0027, Descrição: \u0027Barra com alto teor de proteína\u0027, Preço: R$ 5.5, Quantidade em Estoque: 100, Categoria: \u0027Lanchonete\u0027}": 100,
+  "Produto {ID: 2, Nome: \u0027Garrafa de Água\u0027, Descrição: \u0027Garrafa de 500ml\u0027, Preço: R$ 2.0, Quantidade em Estoque: 200, Categoria: \u0027Lanchonete\u0027}": 200,
+  "Produto {ID: 3, Nome: \u0027Luvas de Academia\u0027, Descrição: \u0027Luvas para treino de musculação\u0027, Preço: R$ 15.0, Quantidade em Estoque: 50, Categoria: \u0027Loja\u0027}": 50,
+  "Produto {ID: 4, Nome: \u0027Whey Protein\u0027, Descrição: \u0027Suplemento alimenttar de proteína do leite\u0027, Preço: R$ 100.0, Quantidade em Estoque: 20, Categoria: \u0027suplementos\u0027}": 20
+}
